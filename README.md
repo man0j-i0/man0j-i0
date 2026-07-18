@@ -1,20 +1,11 @@
 <h1 align="center">Hey 👋, I'm Manoj</h1>
 
-<p align="center">🚀 Full-Stack Engineer | Building Scalable Fintech Systems</p>
+<p align="center">🚀 Full-Stack Engineer | Fintech | React · Django · RabbitMQ</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-das-21368726b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dasmj4321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🏦 12 months of production experience building onboarding platforms for enterprise banking clients
-- ⚡ Comfortable across frontend (React/TS) and backend (Django/Python), with hands-on messaging & infra experience
-- 🔍 Currently looking for **SDE-1 / Full-Stack** roles
-- 📚 Grinding **DSA & System Design**
 
 ---
 
@@ -38,15 +29,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📌 What I've worked on
-
-- 🏦 **Agentic Onboarding UI** — React 19/TS/MUI 7, LLM document extraction, WebRTC camera capture
-- 👥 **Joint Account Onboarding** — Sub-application data model, cross-record gating, multi-queue routing
-- 💸 **[Digital Wallet Backend](https://github.com/man0j-i0/Digital-wallet-backend)** — Node.js/Express/SQLite, peer-to-peer transfers, Jest test coverage
-
----
-
----
-
 <p align="center">⚡ Code. Ship. Learn. Repeat. ⚡</p>
