@@ -1,23 +1,43 @@
-<h1 align="center">Hi 👋, I'm Manoj Das</h1>
-<h3 align="center">A passionate web developer from India</h3>
+# Hey, I'm Manoj 👋
 
-- 🌱 I’m currently learning **React**
+Software Engineer with 12 months of full-stack production experience in fintech. I've built onboarding platforms, queue-based systems, and LLM-powered workflows at scale for enterprise banking clients.
 
-- 💬 Ask me about **MERN**
+I like building things that actually ship — not just tutorials.
 
-- 📫 How to reach me **dasmj4321@gmail.com**
+## What I work with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/_.man0j.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.man0j.__/" height="30" width="40" /></a>
-<a href="https://discord.gg/740130461686431815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="740130461686431815" height="30" width="40" /></a>
+**Frontend:** React 19, TypeScript, Redux Toolkit, Material UI 7, WebRTC, Module Federation, Rspack
+
+**Backend:** Python, Django, Django REST Framework, Node.js, Express.js, Pydantic, SQLAlchemy, Celery
+
+**Databases:** PostgreSQL, Oracle, MongoDB, SQLite
+
+**Messaging & Infra:** RabbitMQ (AMQP), Docker, Jenkins CI/CD, Git, AWS S3
+
+## What I've built
+
+- 🏦 **Agentic Onboarding UI** — Built from scratch in React 19/TS/MUI 7 with LLM document extraction, WebRTC camera capture, and timeout/retry fallback. Used for client-facing demos.
+- 👥 **Multi-Applicant Joint Account System** — Sub-application data model with cross-record submission gating, independent routing, and multi-queue dashboard visibility.
+- ⚡ **Pydantic Serialization Fix** — Profiled and eliminated a `model_dump_json + json.loads` bottleneck, benchmarked 3.3× faster across every application state transition.
+- 🐇 **NATS → RabbitMQ Migration** — Consolidated two parallel consumers into a single declarative PikaConsumer with quorum queues and publisher confirms.
+- 💸 **[Digital Wallet Backend](https://github.com/man0j-i0/Digital-wallet-backend)** — Node.js/Express/SQLite wallet with peer-to-peer transfers, currency conversion, and full Jest test coverage.
+
+## Currently
+
+- 🔍 Looking for SDE-1 / Full-Stack roles
+- 📚 Grinding DSA and system design
+- 🛠️ Building new projects to push here
+
+## Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-das-21368726b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dasmj4321@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=man0j-i0&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=man0j-i0&show_icons=true&locale=en&layout=compact" alt="man0j-i0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=man0j-i0&show_icons=true&locale=en" alt="man0j-i0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=man0j-i0&" alt="man0j-i0" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=man0j-i0&hide_border=true" alt="GitHub Streak" />
+</p>
