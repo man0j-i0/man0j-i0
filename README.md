@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Manoj</h1>
 
-<p align="center">🚀 Full-Stack Engineer | Fintech | React · Django · RabbitMQ</p>
+<p align="center">🚀 Full-Stack Engineer | Fintech</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-das-21368726b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
